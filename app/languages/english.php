@@ -3,10 +3,10 @@
 $name = 'English';
 
 // Language Author
-$author = 'phpSearch';
+$author = 'Matheus M Caetano';
 
 // Language URL
-$url = 'https://phpsearch.com';
+$url = '#';
 
 // Language Direction
 $lang['lang_dir'] = 'ltr';

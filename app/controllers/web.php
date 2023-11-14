@@ -108,7 +108,7 @@ class Web extends Controller {
         }
 
         // Market
-        $params['mkt'] = (in_array($_COOKIE['market'], array_keys($search->getMarkets())) ? $_COOKIE['market'] : 'en-US');
+        $params['mkt'] = (in_array($_COOKIE['market'], array_keys($search->getMarkets())) ? $_COOKIE['market'] : 'pt-BR');
 
         // Search specific sites
         $specificSites = $search->specificSites($this->settings['search_sites']);

@@ -1,6 +1,6 @@
 <?php
 
-define('SOFTWARE_NAME', 'phpSearch');
-define('SOFTWARE_AUTHOR', 'phpSearch');
-define('SOFTWARE_URL', 'https://phpsearch.com');
-define('SOFTWARE_VERSION', '5.2.0');
+define('SOFTWARE_NAME', 'Buska');
+define('SOFTWARE_AUTHOR', 'Buska');
+define('SOFTWARE_URL', '#');
+define('SOFTWARE_VERSION', '1.0');

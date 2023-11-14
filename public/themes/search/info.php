@@ -6,7 +6,7 @@ $name = 'AParda';
 $author = 'A Parda';
 
 // Theme URL
-$url = 'https://phpsearch.com/';
+$url = '#';
 
 // Theme Version
-$version = '5.1.0';
+$version = '1.0';
